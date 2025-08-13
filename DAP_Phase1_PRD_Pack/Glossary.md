@@ -1,0 +1,14 @@
+## Glossary
+- Cellxpert (CX): Third-party CPA platform being replaced by DAP.
+- KYC: Know Your Customer; identity checks.
+- POI: Proof of Identity.
+- POA: Proof of Address.
+- MT4/MT5: Trading platforms by MetaQuotes.
+- Sumsub: KYC/AML vendor.
+- CPA: Cost Per Action; commission model.
+- FTD: First Time Deposit.
+- QFTD: Qualified First Time Deposit; meets qualification.
+- Qualification: Conditions to trigger commission (net deposit, lots, positions).
+- BRegulation: Brand + Regulation (e.g., VGVFSC1).
+- OWS/SWS: Internal admin consoles and messaging systems.
+- APAC/GS/CR: Sales org regions.
